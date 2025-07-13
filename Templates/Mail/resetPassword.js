@@ -263,8 +263,8 @@ module.exports = (name, link) => {
                                 <td style="overflow-wrap:break-word;word-break:break-word;padding:48px;font-family:'Cabin',sans-serif;" align="left">
     
                                   <div style="color: #958d8d; line-height: 170%; text-align: center; word-wrap: break-word;">
-                                    <p style="font-size: 14px; line-height: 170%;">Love 💙 Team Tawk</p>
-                                    <p style="font-size: 14px; line-height: 170%;">For any assistance and queries write to us at <a rel="noopener" href="mailto:support@codingmonk.in?" target="_blank">Support@codingmonk.in</a><br /><br /></p>
+                                    <p style="font-size: 14px; line-height: 170%;">Love 💙 Team TextaHolic</p>
+                                    <p style="font-size: 14px; line-height: 170%;">For any assistance and queries write to us at <a rel="noopener" href="mailto:mohammedavez125@gmail.com?" target="_blank">mohammedavez125@gmail.com</a><br /><br /></p>
                                   </div>
     
                                 </td>
